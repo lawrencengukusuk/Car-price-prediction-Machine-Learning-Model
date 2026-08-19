@@ -15,7 +15,7 @@ This folder contains the key visualizations generated during the **Car Price Pre
 These visualizations provide a visual summary of the dataset, model performance, and predictive drivers, helping translate the machine learning results into interpretable insights.
 
 **Author:** Lawrence Ngukusuk
-**Project:** Car Price Prediction model
+**Project:**                  Car Price Prediction model
 **Primary Language:** Python
 **Core Technologies:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
